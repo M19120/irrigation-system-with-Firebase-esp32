@@ -14,12 +14,12 @@ int bomba = 2;
 DHT dht(DHTPIN,DHTTYPE);
 
  
-#define WIFI_SSID "INFINITUM1E82"
-#define WIFI_PASSWORD "Ec2Mm3Rp7t"
+#define WIFI_SSID "YOURWIFI"
+#define WIFI_PASSWORD "YOURPASSWORD"
 
 
-#define API_KEY "AIzaSyBSVl0pNFxMiGrxmnzLcGz8yAcE22ue4No"
-#define DATABASE_URL "https://sensordht-d8229-default-rtdb.firebaseio.com/"
+#define API_KEY "YOUR APIKEY"
+#define DATABASE_URL "YOUR URL"
 
 
 FirebaseData fbdo;
